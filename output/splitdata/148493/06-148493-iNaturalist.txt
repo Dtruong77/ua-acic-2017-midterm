@@ -1,0 +1,8 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Ministrymon azia","2012-06-20 06:58:00 -0500","Gray Ministreak
+Ministrymon azia
+Dugout Wells
+Big Bend National Park
+Brewster County, TX
+20 June, 2012","Big Bend National Park, Brewster County, US-TX, US",29.3215698223,-103.0268320322,"","Gray Ministreak","https://www.inaturalist.org/observations/8433716","https://static.inaturalist.org/photos/11232123/medium.jpg?1508197095","leehoy",8433716,"Gray Ministreak","Insecta",148493,"false",3,0,"2012/06/20 6:58 AM CDT","2012-06-20","2012-06-20 04:58:00 -0700","Central Time (US & Canada)",NA,"Big Bend National Park, Brewster, Texas, United States","","true","","",NA,18373,"2017-10-16 16:42:30 -0700","2017-10-16 19:16:19 -0700","research","CC-BY",NA,"false"
+"Ministrymon azia","2016-06-11 00:00:00 +0000","","Boca de potrerillos, Mina, México",26.0449244,-100.6375313,"","Gray Ministreak","http://conabio.inaturalist.org/observations/5005421","https://static.inaturalist.org/photos/6119661/medium.jpg?1485378917","beiigp",5005421,"Ministrymon azia","Insecta",148493,"false",2,0,"2016/06/11 8:14 PM UTC","2016-06-11","","UTC",NA,"","","false","","",NA,392115,"2017-01-25 14:17:48 -0700","2017-01-26 01:16:04 -0700","research","",NA,"false"

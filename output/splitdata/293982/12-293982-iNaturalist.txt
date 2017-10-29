@@ -1,0 +1,10 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Eucheira socialis","2016-12-17 09:51:00 -0600","Bolsas de larvas de mariposa del madroño en la ladera del Cerro Prieto, zona de suelo pobre, en las tierras de uso común de la Comunidad San Miguel de Temoaya. El madroño (Arbutus sp). tenía varias bolsas; unos contenían larvas, otros no. 
+
+Hábitat: Bosque de pino. 
+
+Ramos y Pino (1989) consideran a las larvas de esta especie entre los insectos comestibles de México. Sin embargo, en la región del Mezquital no se consumen -aunque sean deliciosos.
+
+
+Referencia:
+Ramos Elorduy J. y J. M Pino Moreno. 1989. Los insectos comestibles en el México antiguo. Pg 7. 1a ed. AGT Editor SA.","Temoaya, Mezquital, Dgo., México",23.2566222222,-104.6374361111,"Durango, Mezquital, Temoaya, ejidos, bosque de pino, lepidópteros",NA,"http://conabio.inaturalist.org/observations/5113358","https://static.inaturalist.org/photos/6288727/medium.jpeg?1487174042","paco_durango",5113358,"Mariposa del madroño","Insecta",293982,"false",1,0,"2016/12/17 9:51 AM CST","2016-12-17","2016-12-17 08:51:00 -0700","Central Time (US & Canada)",NA,NA,NA,"false",NA,NA,NA,54737,"2017-02-15 08:54:41 -0700","2017-02-17 14:23:50 -0700","research","CC-BY-NC",NA,"false"

@@ -1,0 +1,14 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Papilio rutulus","2010-11-06 09:33:00 -0700","","Glenn County, CA, USA",39.5150155613,-122.0100402832,"","Western Tiger Swallowtail","https://www.inaturalist.org/observations/6578454","https://static.inaturalist.org/photos/8346160/medium.jpeg?1497122922","lorri-gong",6578454,"Western Tiger Swallowtail","Insecta",47226,"false",1,0,"2010/11/06 9:33 AM PDT","2010-11-06","2010-11-06 09:33:00 -0700","Pacific Time (US & Canada)",3690,"","","false","","",NA,20270,"2017-06-10 12:32:14 -0700","2017-06-11 11:38:38 -0700","research","CC-BY-NC",NA,"false"
+"Papilio rutulus","2016-11-02 00:00:00 -0800","","California State University Los Angles ",34.06663,-118.166904,"","Western Tiger Swallowtail","http://www.inaturalist.org/observations/4591099","https://static.inaturalist.org/photos/5547694/medium.jpg?1479430271","vanessatopete21",4591099,"Western Tiger Swallowtail","Insecta",47226,"false",4,1,"2016-11-02","2016-11-02","","Pacific Time (US & Canada)",8,"","","false","","",NA,361742,"2016-11-17 17:51:08 -0700","2016-11-18 12:26:27 -0700","research","CC-BY-NC",NA,"false"
+"Papilio rutulus","2015-11-09 00:00:00 -0800","Phylum: Arthropoda
+
+Kingdom: Anamilia
+
+Class: Insecta
+
+Family: Papilionidae
+
+Genus: Papilio
+
+Species: P.rutulus","griffith park",34.136554,-118.2942,"","Western Tiger Swallowtail","http://www.inaturalist.org/observations/2374075","https://static.inaturalist.org/photos/2644239/medium.jpg?1447348231","miraj13",2374075,"Western Tiger Swallowtail","Insecta",47226,"false",1,0,"2015-11-09","2015-11-09","","Pacific Time (US & Canada)",194,"","","false","","",NA,145780,"2015-11-12 10:10:10 -0700","2015-11-16 22:51:56 -0700","research","CC-BY-NC",NA,"false"

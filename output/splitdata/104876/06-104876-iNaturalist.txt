@@ -1,0 +1,17 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Lycaena hermes","2009-06-19 10:49:00 -0700","","United States",32.6650608979,-116.6272623186,NA,"Hermes Copper","https://www.inaturalist.org/observations/4870219","https://static.inaturalist.org/photos/5917343/medium.jpeg?1483135459","snakeinmypocket",4870219,"Hermes Copper","Insecta",104876,"false",2,0,"2009/06/19 10:49 AM PDT","2009-06-19","2009-06-19 10:49:00 -0700","Pacific Time (US & Canada)",119,"San Diego County, CA, USA","obscured","true",NA,NA,NA,14811,"2016-12-30 15:05:11 -0700","2017-07-13 22:04:38 -0700","research","CC-BY-NC-ND",NA,"false"
+"Lycaena hermes","2006-06-21 00:00:00 -0800","Hermes copper
+at least 3
+0505470
+3620923
+8:50
+habitat tall CSS, Artemisia-dominated.
+Malosma laurina blooming vigorously
+Mimulus aurantiacus
+Lotus scoparius
+Rhamnus crocea
+Bromus diandrus
+Eriogonum fasciculatum blooming vigorously
+CSS shrubs are big, with Artemisia about 1.5 m tall.  CSS not thick, easy to walk between shrubs
+","United States",32.6862473421,-116.9421401461,NA,"Hermes Copper","http://www.inaturalist.org/observations/688061","https://static.inaturalist.org/photos/865258/medium.jpg?1400599511","johnmartin",688061,"Hermes copper","Insecta",104876,"false",1,0,"2006-06-21","2006-06-21","","Pacific Time (US & Canada)",111,"San Diego National Wildlife Refuge, Interpretive Loop Trail","","true",NA,NA,NA,39150,"2014-05-20 08:25:05 -0700","2017-07-13 21:18:59 -0700","research","CC-BY-NC",NA,"false"
+"Lycaena hermes","2003-06-05 00:00:00 -0800","","United States",32.7908298761,-116.7750370358,NA,"Hermes Copper","http://www.inaturalist.org/observations/245747","https://static.inaturalist.org/photos/307230/medium.jpg?1366995912","snakeinmypocket",245747,"Lycaena hermes","Insecta",104876,"false",1,0,"2003-06-05","2003-06-05","","Pacific Time (US & Canada)",NA,"skyline truck trail","","true",NA,NA,NA,14811,"2013-04-26 10:04:41 -0700","2017-07-13 21:09:53 -0700","research","CC-BY-NC-ND",NA,"false"

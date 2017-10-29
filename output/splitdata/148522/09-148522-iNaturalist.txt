@@ -1,0 +1,19 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Systasea pulverulenta","2017-09-26 12:05:00 -0500","","Crockett, Texas, United States",30.6771633333,-101.672995,"","Texas Powdered Skipper","https://www.inaturalist.org/observations/8167397","https://static.inaturalist.org/photos/10815811/medium.jpg?1506688690","greglasley",8167397,"Texas Powdered Skipper","Insecta",148522,"false",3,0,"2017/09/26 12:05 PM CDT","2017-09-26","2017-09-26 10:05:00 -0700","Central Time (US & Canada)",NA,"","","false","","",NA,9706,"2017-09-29 05:46:18 -0700","2017-09-29 08:25:17 -0700","research","CC-BY-NC",NA,"false"
+"Systasea pulverulenta","2017-09-20 14:23:00 -0500","Texas Powdered-Skipper
+Systasea pulverulenta
+Sanderson
+Terrell County, TX
+20 September, 2017","Sanderson, TX 79848, USA",30.1447466667,-102.3994183333,"","Texas Powdered Skipper","https://www.inaturalist.org/observations/8019462","https://static.inaturalist.org/photos/10615561/medium.jpg?1505962313","leehoy",8019462,"Texas Powdered Skipper","Insecta",148522,"false",1,0,"2017/09/20 2:23 PM CDT","2017-09-20","2017-09-20 12:23:00 -0700","Central Time (US & Canada)",NA,"","","false","","",NA,18373,"2017-09-20 19:52:51 -0700","2017-09-20 20:01:46 -0700","research","CC-BY",NA,"false"
+"Systasea pulverulenta","2009-09-13 09:22:00 -0500","","Las Estancias, Monterrey, N.L., México",25.5608465004,-100.2571105957,"","Texas Powdered Skipper","http://conabio.inaturalist.org/observations/6267681","https://static.inaturalist.org/photos/7883329/medium.jpg?1495159401","ignacio_a_rodriguez",6267681,"Saltarina","Insecta",148522,"false",1,0,"2009/09/13 9:22 AM CDT","2009-09-13","2009-09-13 07:22:00 -0700","Central Time (US & Canada)",977,"","","false","","",NA,236600,"2017-05-18 19:39:41 -0700","2017-05-19 01:21:31 -0700","research","",NA,"false"
+"Systasea pulverulenta","2014-09-19 12:05:00 -0500","","Tehuantepec, Oax., México",16.3226994,-95.24233,"","Texas Powdered Skipper","http://conabio.inaturalist.org/observations/5042563","https://static.inaturalist.org/photos/6177496/medium.jpeg?1486052780","juancarlosgarciamorales1",5042563,"Saltarina","Insecta",148522,"false",1,0,"2014/09/19 12:05 PM CDT","2014-09-19","2014-09-19 10:05:00 -0700","Central Time (US & Canada)",4480,"","","false","","",NA,64596,"2017-02-02 09:37:10 -0700","2017-02-02 14:36:50 -0700","research","",NA,"false"
+"Systasea pulverulenta","2014-09-30 00:00:00 -0600","Texas Powdered Skipper
+Systasea pulverulenta
+near Max Starcke Dam,
+Marble Falls,
+Burnet Co., Texas
+30 September 2014
+30.5535
+-98.2601
+
+This was a fun encounter with this species as I had seen it several times in the past but had never managed to photograph it before. I found 10 or 12 Texas Powdered Skippers along a hundred yard area of Max Starke Dam Road. I'll post several shots...a really jazzy looking skipper.","near Max Starke Dam, Marble Falls, Texas",30.5535,-98.2601,"","Texas Powdered Skipper","http://www.inaturalist.org/observations/903320","https://static.inaturalist.org/photos/1150903/medium.jpg?1412104507","greglasley",903320,"Texas Powdered Skipper","Insecta",148522,"false",2,0,"2014-09-30","2014-09-30","","Central Time (US & Canada)",25,"","","false","","",NA,9706,"2014-09-30 12:14:38 -0700","2017-09-25 14:51:10 -0700","research","CC-BY-NC",NA,"false"

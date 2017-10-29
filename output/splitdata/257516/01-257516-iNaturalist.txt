@@ -1,0 +1,22 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Neoxeniades luda","2016-01-14 00:00:00 -0600","Mismo individuo: // Same individual:
+
+http://www.inaturalist.org/observations/2503598
+http://www.inaturalist.org/observations/2509166
+http://www.inaturalist.org/observations/2549566
+http://www.inaturalist.org/observations/2571788
+","Yelapa, Jalisco, Mexico",20.487292,-105.442808,NA,NA,"http://www.inaturalist.org/observations/2590383","https://static.inaturalist.org/photos/2895593/medium.jpg?1453084105","magazhu",2590383,"Neoxeniades luda","Insecta",257516,"false",1,0,"2016-01-14","2016-01-14",NA,"Guadalajara",NA,NA,NA,"false",NA,NA,NA,46555,"2016-01-17 19:28:22 -0700","2017-04-17 21:29:23 -0700","research","CC-BY-NC",NA,"false"
+"Neoxeniades luda","2016-01-14 00:00:00 -0600","Mismo individuo // Same individual:
+
+http://www.inaturalist.org/observations/2503603
+www.inaturalist.org/observations/2509176","Yelapa, Jalisco, Mexico",20.487292,-105.442808,NA,NA,"http://www.inaturalist.org/observations/2585231","https://static.inaturalist.org/photos/2887544/medium.jpg?1452923793","magazhu",2585231,"Neoxeniades luda","Insecta",257516,"false",1,0,"2016-01-14","2016-01-14",NA,"Guadalajara",NA,NA,NA,"false",NA,NA,NA,46555,"2016-01-15 22:54:01 -0700","2016-05-18 18:28:03 -0700","research","CC-BY-NC",NA,"false"
+"Neoxeniades luda","2016-01-10 00:00:00 -0600","Mismo individuo: // Same individual:
+
+http://www.inaturalist.org/observations/2503598
+http://www.inaturalist.org/observations/2509166
+http://www.inaturalist.org/observations/2549566
+","Yelapa, Jalisco, Mexico",20.487292,-105.442808,NA,NA,"http://www.inaturalist.org/observations/2571788","https://static.inaturalist.org/photos/2868967/medium.jpg?1452485582","magazhu",2571788,"Neoxeniades luda","Insecta",257516,"false",1,0,"2016-01-10","2016-01-10",NA,"Guadalajara",2032,NA,NA,"false",NA,NA,NA,46555,"2016-01-10 21:11:57 -0700","2016-01-10 22:48:05 -0700","research","CC-BY-NC",NA,"false"
+"Neoxeniades luda","2016-01-02 00:00:00 -0600","Mismo individuo: // Same individual:
+
+www.inaturalist.org/observations/2503598
+http://www.inaturalist.org/observations/2509166","Yelapa, Jalisco, Mexico",20.487292,-105.442808,NA,NA,"http://www.inaturalist.org/observations/2549566","https://static.inaturalist.org/photos/2842079/medium.jpg?1451855399","magazhu",2549566,"Neoxeniades luda","Insecta",257516,"false",1,0,"2016-01-02","2016-01-02",NA,"Guadalajara",2032,NA,NA,"false",NA,NA,NA,46555,"2016-01-03 14:09:01 -0700","2016-01-03 14:58:28 -0700","research","CC-BY-NC",NA,"false"

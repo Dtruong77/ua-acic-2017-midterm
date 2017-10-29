@@ -1,0 +1,8 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Poanes yehl","2015-06-07 00:00:00 -0600","","Jasper County, US-TX, US",30.813693,-94.023555,"","Yehl Skipper","http://www.inaturalist.org/observations/1604149","https://static.inaturalist.org/photos/1972440/medium.JPG?1433712172","lauramorganclark",1604149,"Yehl Skipper","Insecta",202432,"false",2,0,"2015-06-07","2015-06-07","","Central Time (US & Canada)",NA,NA,NA,"false",NA,NA,NA,49118,"2015-06-07 14:22:48 -0700","2017-09-25 18:41:12 -0700","research","CC-BY-NC",NA,"false"
+"Poanes yehl","2009-06-04 00:00:00 -0600","Yehl Skipper
+Poanes yehl
+Big Creek Scenic Area,
+Sam Houston National Forest
+San Jacinto Co., Texas
+4 June 2009","Big Creek Scenic Area, Sam Houston National Forest San Jacinto Co., Texas",30.5152706,-95.0858988,"","Yehl Skipper","http://www.inaturalist.org/observations/198392","https://static.inaturalist.org/photos/252530/medium.jpg?1360872320","greglasley",198392,"Yehl Skipper","Insecta",202432,"false",1,0,"2009-06-04","2009-06-04","","Central Time (US & Canada)",1500,NA,NA,"false",NA,NA,NA,9706,"2013-02-14 13:04:21 -0700","2017-09-25 11:05:25 -0700","research","CC-BY-NC",NA,"false"

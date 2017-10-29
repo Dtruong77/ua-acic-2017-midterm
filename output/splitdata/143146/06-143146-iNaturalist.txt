@@ -1,0 +1,7 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Amblyscirtes aenus","2009-06-02 00:00:00 -0600","Bronze Roadside-Skipper
+Amblysirtes aenus
+Bull Creek Greenbelt,
+Austin, Travis Co.,
+Texas
+2 June 2009","Bull Creek Greenbelt, Austin, Travis Co., Texas",30.3808388,-97.7770972,NA,"Bronze Roadside-Skipper","http://www.inaturalist.org/observations/195457","https://static.inaturalist.org/photos/249467/medium.jpg?1360503825","greglasley",195457,"Bronze Roadside-Skipper","Insecta",143146,"false",1,0,"2009-06-02","2009-06-02","","Central Time (US & Canada)",376,NA,NA,"false","","",NA,9706,"2013-02-10 06:42:58 -0700","2017-09-25 11:03:52 -0700","research","CC-BY-NC",NA,"false"

@@ -1,0 +1,14 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Megathymus ursus","1999-06-16 00:00:00 -0600","Ursine Giant Skipper
+Megathymus ursus
+Pine Peak,
+Davis Mountains, Texas
+16 June 1999
+
+Apparently there are very few photos of this species in the wild. If you research Ursine Giant Skipper on Google, many of the illustrations provided will be these very same photos. Likewise, in the Kaufman and Brock butterfly field Guides you will find these photos as well as the newest Jeff Glassberg guide ""A Swift Guide to Butterflies of North America"". The white antennae are one of the key field characters of this very rare species. 
+
+These photos will be found on the Butterflies and Moths of North America web site at:
+http://www.butterfliesandmoths.org/species/Megathymus-ursus
+as well as several others.
+
+4 shots posted","Davis Mountains Preserve, Texas",30.657,-104.1104,"","Ursine Giant Skipper","http://www.inaturalist.org/observations/186798","https://static.inaturalist.org/photos/241120/medium.jpg?1359225440","greglasley",186798,"Ursine Giant Skipper","Insecta",203826,"false",2,0,"1999-06-16","1999-06-16","","Central Time (US & Canada)",250,NA,NA,"false",NA,NA,NA,9706,"2013-01-26 11:36:55 -0700","2017-09-25 11:01:17 -0700","research","CC-BY-NC",NA,"false"

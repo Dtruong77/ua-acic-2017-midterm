@@ -1,0 +1,6 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Nastra julia","2017-09-25 13:28:00 -0500","Julia's Skipper
+Nastra julia
+Sanderson
+Terrell County, TX
+25 September, 2017","Sanderson, TX 79848, USA",30.1447470312,-102.3994177288,NA,"Julia's Skipper","https://www.inaturalist.org/observations/8096070","https://static.inaturalist.org/photos/10737931/medium.jpg?1506383585","leehoy",8096070,"Julia's Skipper","Insecta",148593,"false",1,0,"2017/09/25 1:28 PM CDT","2017-09-25","2017-09-25 11:28:00 -0700","Central Time (US & Canada)",NA,NA,NA,"false",NA,NA,NA,18373,"2017-09-25 17:02:18 -0700","2017-09-26 10:36:43 -0700","research","CC-BY",NA,"false"

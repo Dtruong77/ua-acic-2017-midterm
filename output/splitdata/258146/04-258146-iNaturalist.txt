@@ -1,0 +1,9 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Mimoides thymbraeus aconophos","2017-04-15 16:40:24 -0500","","Vicente Guerrero 110 San Cristóbal Zapotitlán, Jal.",20.2212750427,-103.370621502,NA,"","https://www.inaturalist.org/observations/6727581","https://static.inaturalist.org/photos/8540619/medium.jpeg?1497942000","karenjeannete",6727581,"Mariposa cometa","Insecta",312737,"false",1,0,"2017-04-15 4:40:24 PM CDT","2017-04-15","2017-04-15 14:40:24 -0700","Central Time (US & Canada)",2064,NA,NA,"false","gps","gps",NA,262229,"2017-06-19 23:59:52 -0700","2017-06-21 13:04:25 -0700","research","CC-BY-NC",2,"false"
+"Mimoides thymbraeus aconophos","2015-04-01 00:00:00 -1000","Mimoides thymbraeus aconophos (Gray, [1853])
+macho
+
+Mariposa Endémica de México de la Familia Papilionidae.
+
+
+Habiendo pocos registros en el Estado de México, este seria el 6to.  Uno anterior a este seria el que registro Blanca Claudia, en Malinalco. Los demás fueron hechos por el Dr. Carlos Romell Beultespacher y  R. de la Maza.  Hace algunos años.","Ecatepec",19.601841,-99.050674,NA,"","http://conabio.inaturalist.org/observations/1355909","https://static.inaturalist.org/photos/1678220/medium.jpg?1427917059","hugoalvarezg",1355909,"Mariposa cometa","Insecta",312737,"false",1,0,"2015-04-01","2015-04-01","","Hawaii",14084,NA,NA,"false","","",NA,16952,"2015-04-01 12:37:35 -0700","2017-03-13 07:44:13 -0700","research","",NA,"false"

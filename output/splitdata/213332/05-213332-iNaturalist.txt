@@ -1,0 +1,12 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Amblyscirtes belli","2017-05-18 13:42:00 -0500","","Little Lee Creek, Nicut, OK, USA",35.572547751,-94.5510864258,"","Bell's Roadside Skipper","https://www.inaturalist.org/observations/6280522","https://static.inaturalist.org/photos/7904433/medium.jpg?1495250588","arbutterflynut",6280522,"Bell's Roadside Skipper","Insecta",213332,"false",1,0,"2017/05/18 1:42 PM CDT","2017-05-18","2017-05-18 11:42:00 -0700","Central Time (US & Canada)",244,"","","false",NA,NA,NA,399516,"2017-05-19 20:24:31 -0700","2017-05-20 07:28:57 -0700","research","CC-BY-NC",NA,"false"
+"Amblyscirtes belli","2017-05-11 11:59:00 -0500","","Norman, OK, USA",35.2423420555,-97.42787352,"","Bell's Roadside Skipper","https://www.inaturalist.org/observations/6176876","https://static.inaturalist.org/photos/7749190/medium.jpeg?1494549354","zdufran",6176876,"Bell's Roadside Skipper","Insecta",213332,"false",1,0,"2017/05/11 11:59 AM CDT","2017-05-11","2017-05-11 09:59:00 -0700","Central Time (US & Canada)",100,"","","false",NA,NA,NA,288963,"2017-05-11 17:39:14 -0700","2017-05-12 18:07:34 -0700","research","CC-BY-NC",NA,"false"
+"Amblyscirtes belli","2011-05-10 00:00:00 -0600","Bell's Roadside-Skipper
+Amblyscirtes belli
+Ouachita National Forest,
+McCurtain Co., Oklahoma
+10 May 2011
+
+two shots posted
+
+iNat shows this as a subspecies, but I believe it is generally considered a full species now. ","Ouachita National Forest, McCurtain Co., Oklahoma",34.2892755201,-94.7838592529,"","Bell's Roadside Skipper","http://www.inaturalist.org/observations/195451","https://static.inaturalist.org/photos/249460/medium.jpg?1360502764","greglasley",195451,"Bell's Roadside Skipper","Insecta",213332,"false",2,0,"2011-05-10","2011-05-10","","Central Time (US & Canada)",5000,"","","false",NA,NA,NA,9706,"2013-02-10 06:25:42 -0700","2015-08-04 11:36:47 -0700","research","CC-BY-NC",NA,"false"

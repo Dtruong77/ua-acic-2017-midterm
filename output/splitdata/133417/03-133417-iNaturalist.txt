@@ -1,0 +1,9 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Catasticta teutila","2017-03-07 16:56:00 -0600","","San José Chiapa, Puebla, Mexico",19.2791666667,-97.6713111111,"","Pure-banded Dartwhite","http://conabio.inaturalist.org/observations/5249330","https://static.inaturalist.org/photos/6494890/medium.jpeg?1488976770","bodofzt",5249330,"Mariposa victoria naranja","Insecta",133417,"false",3,0,"2017/03/07 4:56 PM CST","2017-03-07","2017-03-07 15:56:00 -0700","Central Time (US & Canada)",NA,"","","false","","",NA,318516,"2017-03-08 05:45:59 -0700","2017-08-17 09:21:54 -0700","research","CC-BY-NC",NA,"false"
+"Catasticta teutila","2005-03-22 00:00:00 -0600","Golden Dartwhite
+Casasticta teutila flavomaculata
+El Triunfo Cloud Forest
+elevation: 6500 feet
+Lat/Lon: 15.6577   092.8091
+Chiapas. Mexico
+22 March 2005","El Triunfo cloud forest",15.6577,-92.8091,"","Pure-banded Dartwhite","http://www.inaturalist.org/observations/195894","https://static.inaturalist.org/photos/249930/medium.jpg?1360536293","greglasley",195894,"Golden Dartwhite","Insecta",133417,"false",1,0,"2005-03-22","2005-03-22","","Central Time (US & Canada)",200,"","","false","","",NA,9706,"2013-02-10 15:44:20 -0700","2017-03-08 13:14:55 -0700","research","CC-BY-NC",NA,"false"

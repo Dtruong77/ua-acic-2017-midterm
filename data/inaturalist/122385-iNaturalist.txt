@@ -1,0 +1,25 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Callophrys johnsoni","2017-06-24 23:06:00 -0500","On a Bitter Cherry (Prunus emarginata).","California, US",39.3431735748,-120.1436123445,"","Johnson’s Hairstreak","https://www.inaturalist.org/observations/6804514","https://static.inaturalist.org/photos/8657436/medium.jpeg?1498449532","coreyjlange",6804514,"Johnson’s Hairstreak","Insecta",122385,"false",2,0,"2017/06/24 11:06 PM CDT","2017-06-24","2017-06-24 21:06:00 -0700","Central Time (US & Canada)",51,"El Dorado County, CA, USA",NA,"true",NA,"",NA,55236,"2017-06-25 20:59:25 -0700","2017-06-26 15:51:56 -0700","research","CC-BY-NC",NA,"false"
+"Callophrys johnsoni","2017-06-02 12:53:00 -0700","Lassen County, California, US","Lassen County, US-CA, US",40.6784986542,-120.34070486,"Johnson’s Hairstreak (Callophrys johnsoni)","Johnson’s Hairstreak","https://www.inaturalist.org/observations/6766562","https://static.inaturalist.org/photos/8598980/medium.jpg?1498235887","finatic",6766562,"Johnson’s Hairstreak","Insecta",122385,"false",1,0,"2017/06/02 12:53 PM PDT","2017-06-02","2017-06-02 12:53:00 -0700","Pacific Time (US & Canada)",NA,"395-Rest Area--Lassen County",NA,"true",NA,"",NA,10285,"2017-06-23 09:39:50 -0700","2017-06-23 15:00:52 -0700","research","CC-BY-NC",NA,"false"
+"Callophrys johnsoni","2016-07-23 14:48:00 -0700","","California, US",40.5521965052,-121.335392881,"","Johnson’s Hairstreak","http://www.inaturalist.org/observations/3837154","https://static.inaturalist.org/photos/4490466/medium.jpg?1470693093","euproserpinus",3837154,"Johnson’s Hairstreak","Insecta",122385,"false",1,0,"2016/07/23 2:48 PM PDT","2016-07-23","2016-07-23 14:48:00 -0700","Pacific Time (US & Canada)",NA,"Shasta County, CA, USA",NA,"true",NA,"",NA,21370,"2016-08-08 14:55:50 -0700","2017-06-26 14:11:43 -0700","research","CC-BY-NC",NA,"false"
+"Callophrys johnsoni","2016-06-25 00:00:00 -0800","","United States",41.8203773992,-120.3291842527,"","Johnson’s Hairstreak","http://www.inaturalist.org/observations/3670548","https://static.inaturalist.org/photos/4251280/medium.jpg?1468387142","euproserpinus",3670548,"Johnson’s Hairstreak","Insecta",122385,"false",1,0,"2016-06-25","2016-06-25","","Pacific Time (US & Canada)",53,"United States",NA,"true",NA,"manual",NA,21370,"2016-07-12 22:18:57 -0700","2017-06-26 14:12:08 -0700","research","CC-BY-NC",NA,"false"
+"Callophrys johnsoni","2008-06-20 12:13:30 -0700"," Johnson’s Hairstreak  
+<i>Callophrys johnsoni</i> on Daisy
+<a href=""http://en.wikipedia.org/wiki/Copper_Butterfly"" rel=""nofollow"">Copper Butterfly</a>
+
+Kingdom: Animalia
+Phylum: Arthropoda
+Subphylum: Hexapoda
+Class: Insecta
+Order: Lepidoptera
+Superfamily: Papilionoidea
+Family: Lycaenidae
+Leach, 1815 
+
+
+<a href=""http://www.nps.gov/archive/noca/birdguide/birdingguide1b.htm"" rel=""nofollow"">Aggregate Ponds Info</a>
+Aggregate Ponds (Milepost 118 of the North Cascades Highway)
+About one mile west of the Goodell Creek Campground is the entrance road to these human-made ponds. Material dredged from this area was used in the construction of SR 20. Now the ponds are excellent birding areas. Keep in mind that these ponds are owned by Seattle City Light and vehicle access is not permitted. Park at least fifty feet from the gate and continue on foot.
+
+i062208 044","North Cascades National Park Service Complex, US-WA, US",48.7154092604,-121.2892227788,"","Johnson’s Hairstreak","http://www.inaturalist.org/observations/576243","https://static.inaturalist.org/photos/732752/medium.jpg?1444495053","brewbooks",576243,"Johnson’s Hairstreak","Insecta",122385,"false",1,0,"2008-06-20 12:13:30","2008-06-20","2008-06-20 12:13:30 -0700","Pacific Time (US & Canada)",NA,"Washington, United States",NA,"true",NA,"",NA,8641,"2014-03-20 09:13:38 -0700","2015-05-13 18:07:03 -0700","research","CC-BY",NA,"false"
+"Callophrys johnsoni","2013-07-06 11:21:12 -0700","Uses Dwarf Mistletoe on pines/conifers...","California, US",39.6294480019,-120.7252479448,"","Johnson’s Hairstreak","http://www.inaturalist.org/observations/324225","https://static.inaturalist.org/photos/403558/medium.jpg?1373234858","robberfly",324225,"Johnson’s Hairstreak","Insecta",122385,"false",2,0,"Sat Jul 06 2013 11:21:12 GMT-0700 (PDT)","2013-07-06","2013-07-06 11:21:12 -0700","Pacific Time (US & Canada)",NA,"Tahoe National Forest, Sierra City, California, US",NA,"true",NA,"",NA,13979,"2013-07-07 15:01:14 -0700","2017-06-26 14:12:42 -0700","research","CC-BY-NC",3,"false"

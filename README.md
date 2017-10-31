@@ -71,6 +71,7 @@ In the following steps all scripts must be run within the scripts directory
 + install.libraries("maptools")
 + install.libraries("httr")
 3. Create file containing taxon ids, or just use/modify the provided file in data/gbif
++ If you make your own file, make sure it has the same name and format as the file found in data/gbif/
 4. Execute get-observation-data-batch.R script to get observations for species from INaturalist. Within scripts directory run the following:
 + Rscript get-observation-data-batch.R ../data/gbif/taxon-ids.txt
 5. Execute split-observations-by-months.R script to split the observations by months. Within scripts directory run the following:

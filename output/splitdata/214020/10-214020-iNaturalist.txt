@@ -1,0 +1,18 @@
+"scientific_name","datetime","description","place_guess","latitude","longitude","tag_list","common_name","url","image_url","user_login","id","species_guess","iconic_taxon_name","taxon_id","id_please","num_identification_agreements","num_identification_disagreements","observed_on_string","observed_on","time_observed_at","time_zone","positional_accuracy","private_place_guess","geoprivacy","coordinates_obscured","positioning_method","positioning_device","out_of_range","user_id","created_at","updated_at","quality_grade","license","oauth_application_id","captive_cultivated"
+"Apodemia palmerii","2016-10-02 10:00:00 -0700","Seen  in the Box Canyon area on the Santa Rita Mtns. Fall Butterfly Count. ","Pima County, AZ, USA",31.7988007604,-110.794261246,"","Palmer's Metalmark","https://www.inaturalist.org/observations/8044972","https://static.inaturalist.org/photos/10655636/medium.jpg?1506121513","xranger2013",8044972,"Palmer's Metalmark","Insecta",214020,"false",1,0,"2016/10/02 10:00 AM PDT","2016-10-02","2016-10-02 10:00:00 -0700","Pacific Time (US & Canada)",50,"",NA,"false","","",NA,107502,"2017-09-22 16:06:39 -0700","2017-09-22 17:35:57 -0700","research","CC-BY-NC",NA,"false"
+"Apodemia palmerii","2016-10-18 16:27:49 -0600","","E Whitehouse Canyon Rd, Green Valley, AZ, US",31.8050583333,-110.90033,"","Palmer's Metalmark","http://www.inaturalist.org/observations/4388931","https://static.inaturalist.org/photos/5265935/medium.jpg?1476836913","robberfly",4388931,"Palmer's Metalmark","Insecta",214020,"false",1,0,"Tue Oct 18 2016 16:27:49 GMT-0700 (MST)","2016-10-18","2016-10-18 15:27:49 -0700","Mountain Time (US & Canada)",NA,"",NA,"false","","",NA,13979,"2016-10-18 17:28:20 -0700","2017-01-16 23:20:48 -0700","research","CC-BY-NC",3,"false"
+"Apodemia palmerii palmerii","2010-10-30 00:00:00 -0700","","caduano, baja california sur",23.334741,-109.777083,"","","http://www.inaturalist.org/observations/2756789","https://static.inaturalist.org/photos/3118106/medium.jpg?1457405969","mlodinow",2756789,"Apodemia palmerii palmerii","Insecta",312632,"false",1,0,"2010-10-30","2010-10-30","","Arizona",NA,"",NA,"false","","",NA,159910,"2016-03-07 19:59:24 -0700","2017-07-19 17:40:48 -0700","research","CC-BY-NC",NA,"false"
+"Apodemia palmerii","2013-10-05 10:04:38 -0700","Imperial County, California, US
+
+CA Ode Blitz 2013
+","West Pond",32.878181,-114.480764,"","Palmer's Metalmark","http://www.inaturalist.org/observations/421863","https://static.inaturalist.org/photos/531785/medium.jpg?1444284209","finatic",421863,"Palmer's Metalmark","Insecta",214020,"false",2,0,"2013-10-05 10:04:38","2013-10-05","2013-10-05 10:04:38 -0700","Pacific Time (US & Canada)",458,"",NA,"false","","manual",NA,10285,"2013-10-08 09:01:27 -0700","2017-01-16 22:23:45 -0700","research","CC-BY-NC",NA,"false"
+"Apodemia palmerii","2013-10-05 00:00:00 -0600","Palmer's Metalmark
+Apodemia palmeri
+near Senator Wash Road,
+Imperial Co., California
+5 October 2013
+
+32.8740
+-114.4787
+
+according to several references the orange border to the wings is characteristic of this species in this area. Ones farther east lack this orange border.","near Senator Wash Road, Imperial Co., California",32.874,-114.4787,"","Palmer's Metalmark","http://www.inaturalist.org/observations/419004","https://static.inaturalist.org/photos/528054/medium.jpg?1381007153","greglasley",419004,"Palmer's Metalmark","Insecta",214020,"false",1,0,"2013-10-05","2013-10-05","","Central Time (US & Canada)",50,"",NA,"false","","",NA,9706,"2013-10-05 14:05:47 -0700","2017-01-16 22:23:40 -0700","research","CC-BY-NC",NA,"false"

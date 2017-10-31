@@ -60,6 +60,24 @@ Five additional R packages are required:
 3. Run split-observations-by-months.R to split the results of step 2 into 12 files for each months obsevations
 4. Run SDMMaker shell script from scripts folder
 
+## Detailed Steps
+In the following steps all scripts must be run within the scripts directory
+
+1. Pull Repo
+2. Install R packages. Within R run:
++ install.libraries("raster")
++ install.libraries("sp")
++ install.libraries("dismo")
++ install.libraries("maptools")
++ install.libraries("httr")
+3. Create file containing taxon ids, or just use/modify the provided file in data/gbif
+4. Execute get-observation-data-batch.R script to get observations for species from INaturalist. Within scripts directory run the following:
++ Rscript get-observation-data-batch.R ../data/gbif/taxon-ids.txt
+5. Execute split-observations-by-months.R script to split the observations by months. Within scripts directory run the following:
++ Rscript split-observations-by-months.R
+6. Execute SDMmaker.sh script to feed datasets produced in previous 2 steps to SDM and produce distribution maps. Within scripts directory run the following:
++ bash SDMmaker.sh 
+
 ## Resources
 ### Species distribution models in R
 + [Vignette for `dismo` package](https://cran.r-project.org/web/packages/dismo/vignettes/sdm.pdf)
@@ -72,3 +90,4 @@ Five additional R packages are required:
 ### iNaturalist
 + [API documentation](https://www.inaturalist.org/pages/api+reference)
 + Google groups [discussion](https://groups.google.com/d/topic/inaturalist/gDpfMWXNxvE/discussion) about taxon_id
+

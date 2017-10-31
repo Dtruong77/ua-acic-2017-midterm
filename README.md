@@ -49,6 +49,8 @@ Five additional R packages are required:
   and puts the outputs into ./output/images
   	+ Usage: Run from the scripts folder that contains this script
   	+ Example: 'bash SDMmaker.sh'
++ deliverables
+  + sdm_maps.ipynb - Jupyter notebook for querying and displaying SDM maps. Run Jupyter Notebook, then open this file and follow the instructions witin
 
 ## General approach:
 
